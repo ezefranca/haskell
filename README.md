@@ -1,5 +1,9 @@
 # haskell
 
+
+** Mac M1:
+https://www.youtube.com/watch?v=zeZkgIrGKeY
+
 Expressions
 In almost all programming languages you can create expressions such as:
 ```swift
