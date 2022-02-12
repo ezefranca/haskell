@@ -4,6 +4,9 @@
 ** Mac M1:
 https://www.youtube.com/watch?v=zeZkgIrGKeY
 
+** VSCode
+https://medium.com/@dogwith1eye/setting-up-haskell-in-vs-code-with-stack-and-the-ide-engine-81d49eda3ecf
+
 Expressions
 In almost all programming languages you can create expressions such as:
 ```swift
